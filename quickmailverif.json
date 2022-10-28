@@ -1,0 +1,16 @@
+{   "result":"valid",
+    "reason":"accepted_email",
+    "disposable":"false",
+    "accept_all":"true",
+    "role":"false",
+    "free":"false",
+    "email":"iecarneiro@gna.gob.ar",
+    "user":"iecarneiro",
+    "domain":"gna.gob.ar",
+    "mx_record":"mx3.gna.gob.ar",
+    "mx_domain":"gob.ar",
+    "safe_to_send":"false",
+    "did_you_mean":"",
+    "success":"true",
+    "message":""
+}
